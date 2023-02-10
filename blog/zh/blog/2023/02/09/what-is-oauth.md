@@ -3,8 +3,8 @@ title: "关于 OAuth 你又了解哪些？"
 authors:
   - name: "罗锦华"
     title: "Author"
-    url: "https://github.com/hansedong"
-    image_url: "https://github.com/hansedong.png"
+    url: "https://github.com/kingluo"
+    image_url: "https://github.com/kingluo.png"
 keywords: 
 - 授权
 - Apache APISIX
@@ -17,7 +17,7 @@ tags: [Ecosystem]
 
 <!--truncate-->
 
-> 作者罗锦华，API7.ai 技术专家/技术工程师，开源项目 pgcat，lua-resty-ffi，lua-resty-inspect 的作者。
+> 作者[罗锦华](https://github.com/kingluo)，API7.ai 技术专家/技术工程师，开源项目 pgcat，lua-resty-ffi，lua-resty-inspect 的作者。
 
 ## OAuth 的背景
 
